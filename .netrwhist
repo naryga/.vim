@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/garzan/Sites/rails/pinnacol/online_froi'
 let g:netrw_dirhist_2='/Users/garzan'
 let g:netrw_dirhist_3='/Users/garzan/.rvm/gems/ruby-1.9.3-p194@ofroi/gems/online-core-1.12.0'
+let g:netrw_dirhist_4='/Users/nathan/.vim'
+let g:netrw_dirhist_5='/Users/nathan/.vim/.git/modules'
+let g:netrw_dirhist_6='/Users/nathan/.vim/.git/modules/bundle'
+let g:netrw_dirhist_7='/Users/nathan'
