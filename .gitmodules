@@ -1,0 +1,6 @@
+[submodule "syntax/vim-pandoc-syntax"]
+	path = syntax/vim-pandoc-syntax
+	url = git@github.com:vim-pandoc/vim-pandoc-syntax.git
+[submodule "bundle/vim-elixir"]
+	path = bundle/vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
