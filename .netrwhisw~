@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/nathan/Sites/rails/sample_app'
+let g:netrw_dirhist_2='/Users/nathan/Sites/phpcuc'
+let g:netrw_dirhist_3='/Users/nathan/Sites/wardbulletin-wp/admin/wp-content'
+let g:netrw_dirhist_4='/Users/nathan/Sites/rails/pinnacol/OnlineFroi'
+let g:netrw_dirhist_5='/Users/nathan/Sites/rails/pinnacol/Online_FROI'
+let g:netrw_dirhist_6='/private/etc/apache2'
+let g:netrw_dirhist_7='/Users/nathan/Documents/notes'

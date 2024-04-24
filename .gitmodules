@@ -4,3 +4,36 @@
 [submodule "bundle/vim-elixir"]
 	path = bundle/vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "/Users/nathan/.vim/pack/git-plugins/start/ale"]
+	path = /Users/nathan/.vim/pack/git-plugins/start/ale
+	url = https://github.com/w0rp/ale.git
+[submodule "bundle/tsuquyomi"]
+	path = bundle/tsuquyomi
+	url = https://github.com/Quramy/tsuquyomi.git
+[submodule "pack/git-plugins/start/vim-pandoc"]
+	path = pack/git-plugins/start/vim-pandoc
+	url = https://github.com/vim-pandoc/vim-pandoc.git
+[submodule "pack/git-plugins/start/vim-pandoc-syntax"]
+	path = pack/git-plugins/start/vim-pandoc-syntax
+	url = https://github.com/vim-pandoc/vim-pandoc-syntax.git
+[submodule "plugin/ack.vim"]
+	path = plugin/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/gruvbox"]
+	path = bundle/gruvbox
+	url = https://github.com/morhetz/gruvbox.git 
+[submodule "bundle/gruvbox-old"]
+	path = bundle/gruvbox-old
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/vim-javascript/start/vim-javascript"]
+	path = pack/vim-javascript/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "pack/default/start/vim-polyglot"]
+	path = pack/default/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot

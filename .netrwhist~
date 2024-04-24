@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/nathan/.vim'
+let g:netrw_dirhist_2='/Users/nathan'
+let g:netrw_dirhist_3='/Users/nathan/.vim/bundle'
+let g:netrw_dirhist_4='/Users/nathan'
+let g:netrw_dirhist_5='/Users/nathan/Sites/rails/discounted'
+let g:netrw_dirhist_6='/Users/nathan/Documents/writing/creative/the_begining_in_the_middle'
